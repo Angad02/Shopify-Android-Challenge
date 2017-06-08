@@ -3,7 +3,7 @@ package com.mi.metadata;
 import java.util.Vector;
 
 /**
- * Created by karandsingh on 16-08-31.
+ * Created on 16-08-31.
  */
 public class LoginResponseMetadata {
 
